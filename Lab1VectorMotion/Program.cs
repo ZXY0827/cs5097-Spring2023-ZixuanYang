@@ -4,9 +4,9 @@ public class Program
 {
     public static void Main(string[] args)
     {
-        if (args.Length == 0)
+        if (args.Length != 7)
         {
-            Console.WriteLine("Please enter a numeric argument.");
+            Console.WriteLine("Please enter a valid argument.");
             return;
         }
         double start1 = double.Parse(args[0]);
@@ -30,25 +30,25 @@ public class Program
         double speed = totalDistance / time;
         Console.WriteLine("the rate of speed " + speed);
         
-        
+        double timeInc = (double)time / 10;
+        double t = 0.0;
+
         for (int i = 1; i <= 10; i++){
-            time = i * 0.5;
+            t += timeInc;
             Console.WriteLine("iteration " + i + ":");
-            double distance = speed * time;
+            double distance = speed * t;
             Console.WriteLine("distance traveled " + distance);
 
-            double diff1 = (final1 - start1) / 10;
-            double diff2 = (final2 - start2) / 10;
-            double diff3 = (final3 - start3) / 10;
+            double diff1 = (double)(final1 - start1) / 10;
+            double diff2 = (double)(final2 - start2) / 10;
+            double diff3 = (double)(final3 - start3) / 10;
 
             double new1 = start1 + diff1 * i;
             double new2 = start2 + diff2 * i;
             double new3 = start3 + diff3 * i;
             Console.WriteLine("current position: [" + new1 + "," + new2 + "," + new3 + "]");
 
-            Console.WriteLine("time: " + time);
-            
-
+            Console.WriteLine("time: " + t);
         }
     }
 

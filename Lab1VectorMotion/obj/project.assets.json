@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/christina/CS5097-Spring/Lab1VectorMotion/Lab1VectorMotion.csproj",
+      "projectUniqueName": "/Users/christina/CS5097-Spring/cs5097-Spring2023-ZixuanYang/Lab1VectorMotion/Lab1VectorMotion.csproj",
       "projectName": "Lab1VectorMotion",
-      "projectPath": "/Users/christina/CS5097-Spring/Lab1VectorMotion/Lab1VectorMotion.csproj",
+      "projectPath": "/Users/christina/CS5097-Spring/cs5097-Spring2023-ZixuanYang/Lab1VectorMotion/Lab1VectorMotion.csproj",
       "packagesPath": "/Users/christina/.nuget/packages/",
-      "outputPath": "/Users/christina/CS5097-Spring/Lab1VectorMotion/obj/",
+      "outputPath": "/Users/christina/CS5097-Spring/cs5097-Spring2023-ZixuanYang/Lab1VectorMotion/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/christina/.nuget/NuGet/NuGet.Config"
