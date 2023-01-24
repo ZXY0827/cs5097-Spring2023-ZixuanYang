@@ -1,0 +1,15 @@
+/Users/christina/CS5097-Spring/cs5097-Spring2023-ZixuanYang/practice/bin/Debug/net7.0/practice
+/Users/christina/CS5097-Spring/cs5097-Spring2023-ZixuanYang/practice/bin/Debug/net7.0/practice.deps.json
+/Users/christina/CS5097-Spring/cs5097-Spring2023-ZixuanYang/practice/bin/Debug/net7.0/practice.runtimeconfig.json
+/Users/christina/CS5097-Spring/cs5097-Spring2023-ZixuanYang/practice/bin/Debug/net7.0/practice.dll
+/Users/christina/CS5097-Spring/cs5097-Spring2023-ZixuanYang/practice/bin/Debug/net7.0/practice.pdb
+/Users/christina/CS5097-Spring/cs5097-Spring2023-ZixuanYang/practice/obj/Debug/net7.0/practice.csproj.AssemblyReference.cache
+/Users/christina/CS5097-Spring/cs5097-Spring2023-ZixuanYang/practice/obj/Debug/net7.0/practice.GeneratedMSBuildEditorConfig.editorconfig
+/Users/christina/CS5097-Spring/cs5097-Spring2023-ZixuanYang/practice/obj/Debug/net7.0/practice.AssemblyInfoInputs.cache
+/Users/christina/CS5097-Spring/cs5097-Spring2023-ZixuanYang/practice/obj/Debug/net7.0/practice.AssemblyInfo.cs
+/Users/christina/CS5097-Spring/cs5097-Spring2023-ZixuanYang/practice/obj/Debug/net7.0/practice.csproj.CoreCompileInputs.cache
+/Users/christina/CS5097-Spring/cs5097-Spring2023-ZixuanYang/practice/obj/Debug/net7.0/practice.dll
+/Users/christina/CS5097-Spring/cs5097-Spring2023-ZixuanYang/practice/obj/Debug/net7.0/refint/practice.dll
+/Users/christina/CS5097-Spring/cs5097-Spring2023-ZixuanYang/practice/obj/Debug/net7.0/practice.pdb
+/Users/christina/CS5097-Spring/cs5097-Spring2023-ZixuanYang/practice/obj/Debug/net7.0/practice.genruntimeconfig.cache
+/Users/christina/CS5097-Spring/cs5097-Spring2023-ZixuanYang/practice/obj/Debug/net7.0/ref/practice.dll
